@@ -1,3 +1,0 @@
-ID,施設名,MACアドレス,電源状態,消費電力 [W],更新時刻,latitude,longitude,画像1,画像2,画像3,画像4,画像5
-001,岡山大学病院,3c:84:27:a4:cb:6a,GOOD,19.8,14:55:21,34.65092412,133.9206577,camera_streaming_data/image_ID001.jpg,camera_streaming_data/image_ID002.jpg,camera_streaming_data/image_ID003.jpg,camera_streaming_data/image_ID004.jpg,camera_streaming_data/image_ID005.jpg
-002,井原市病院,00:00:00:00:00:00,BAD,0.0,21:56:42,34.61267559,133.4553162,camera_streaming_data/image_ID001.jpg,camera_streaming_data/image_ID002.jpg
