@@ -5,6 +5,6 @@
 <!-- 背景地図を表示状態として読み込む -->
 <animation xlink:href="./map_base.svg" x="-3000" y="-3000" width="6000" height="6000" title="OpenStreetMap" class="basemap" visibility="visible"/>
 
-<animation xlink:href="./node_marker.svg" x="-3000" y="-3000" width="6000" height="6000" title="JapanTestDummyData" visibility="visible" class="clickable"/>
+<animation xlink:href="./node_marker.svg" x="-3000" y="-3000" width="6000" height="6000" title="病院資源監視システム" visibility="visible" class="clickable"/>
 
 </svg>
