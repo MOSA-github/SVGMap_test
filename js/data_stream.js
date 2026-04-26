@@ -1,5 +1,5 @@
 var dataUrl = "https://mosa-github.github.io/data_test_server_page/data/latest.json";
-var locationMasterUrl = "../json/node_master.json"; // 座標管理ファイル
+var locationMasterUrl = "./json/node_master.json"; // 座標管理ファイル
 
 var locationMaster = {}; // 座標データを保持する変数
 
